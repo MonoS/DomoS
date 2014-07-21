@@ -1,1 +1,0 @@
-DomoS is a home automation system based on Arduino
